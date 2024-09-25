@@ -1,10 +1,4 @@
 
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
 </head>
 
 <body lang=EN-AU link=blue vlink="#954F72" style='tab-interval:36.0pt'>
