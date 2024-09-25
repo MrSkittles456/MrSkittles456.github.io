@@ -142,10 +142,10 @@ line-height:normal'><!--[if gte vml 1]><v:shape id="Picture_x0020_3" o:spid="_x0
  mso-position-horizontal-relative:margin;mso-position-vertical:absolute;
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" o:title=""/>
+ <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" o:title=""/>
  <w:wrap type="tight" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=338 height=225
-src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" align=left hspace=12
+src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" align=left hspace=12
 v:shapes="Picture_x0020_3"><![endif]><span style='font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-AU;mso-fareast-language:
 EN-AU'>Think of your sock puppet account to as an application to join the
