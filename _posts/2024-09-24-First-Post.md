@@ -969,9 +969,9 @@ EN-AU;mso-fareast-language:EN-AU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapety
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
  style='width:303.75pt;height:202.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="The%20ancient%20art%20of%20sock_files/image001.jpg" o:title=""/>
+ <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=405 height=270
-src="The%20ancient%20art%20of%20sock_files/image002.jpg" v:shapes="Picture_x0020_2"><![endif]></span></b><b><span
+src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" v:shapes="Picture_x0020_2"><![endif]></span></b><b><span
 style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 mso-font-kerning:18.0pt;mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'><o:p></o:p></span></b></p>
 
