@@ -31,9 +31,9 @@ EN-AU;mso-fareast-language:EN-AU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapety
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
  style='width:303.75pt;height:202.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" o:title=""/>
+ <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=405 height=270
-src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" v:shapes="Picture_x0020_2"><![endif]></span></b><b><span
+src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" v:shapes="Picture_x0020_2"><![endif]></span></b><b><span
 style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 mso-font-kerning:18.0pt;mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'><o:p></o:p></span></b></p>
 
@@ -142,17 +142,17 @@ line-height:normal'><!--[if gte vml 1]><v:shape id="Picture_x0020_3" o:spid="_x0
  mso-position-horizontal-relative:margin;mso-position-vertical:absolute;
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="The%20ancient%20art%20of%20sock_files/image003.jpg" o:title=""/>
+ <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" o:title=""/>
  <w:wrap type="tight" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=338 height=225
-src="The%20ancient%20art%20of%20sock_files/image004.jpg" align=left hspace=12
+src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" align=left hspace=12
 v:shapes="Picture_x0020_3"><![endif]><span style='font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-AU;mso-fareast-language:
 EN-AU'>Think of your sock puppet account to as an application to join the
 social media platform. <br>
 <br>
 If you fail any of the stages, your application will get rejected. To pass, you
-need to �appear� real. You can do this by considering the following:<o:p></o:p></span></p>
+need to 'appear' real. You can do this by considering the following:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 margin-left:36.0pt;line-height:normal'><span style='font-family:"Arial",sans-serif;
