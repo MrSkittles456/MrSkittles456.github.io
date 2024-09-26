@@ -186,7 +186,7 @@ for your sock: name, age, bio, interests, etc.<o:p></o:p></span></p>
      style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
      mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'>Raid the stuff drawer
      in your house, dig out that old mobile phone, charge it (unless it's a
-     Nokia 3310<span class=GramE>(ask your parents) and factory reset
+     Nokia 3310<span class=GramE> (ask your parents) and factory reset
      it.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      line-height:normal;mso-list:l0 level1 lfo2;tab-stops:list 36.0pt'><span
