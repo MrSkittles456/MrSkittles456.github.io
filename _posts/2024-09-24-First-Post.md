@@ -1,8 +1,4 @@
 
-</head>
-
-<body lang=EN-AU link=blue vlink="#954F72" style='tab-interval:36.0pt'>
-
 <div class=WordSection1>
 
 <p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
@@ -32,8 +28,8 @@ EN-AU;mso-fareast-language:EN-AU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapety
 </v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
  style='width:303.75pt;height:202.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=405 height=270
-src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" v:shapes="Picture_x0020_2"><![endif]></span></b><b><span
+</v:shape><![endif]--><img width=405 height=270
+src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(4).jfif" v:shapes="Picture_x0020_2"></span></b><b><span
 style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 mso-font-kerning:18.0pt;mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'><o:p></o:p></span></b></p>
 
@@ -144,9 +140,9 @@ line-height:normal'><!--[if gte vml 1]><v:shape id="Picture_x0020_3" o:spid="_x0
  mso-width-relative:margin;mso-height-relative:margin'>
  <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" o:title=""/>
  <w:wrap type="tight" anchorx="margin"/>
-</v:shape><![endif]--><![if !vml]><img width=338 height=225
+</v:shape><![endif]--><img width=338 height=225
 src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" align=left hspace=12
-v:shapes="Picture_x0020_3"><![endif]><span style='font-family:"Arial",sans-serif;
+v:shapes="Picture_x0020_3"><span style='font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-AU;mso-fareast-language:
 EN-AU'>Think of your sock puppet account to as an application to join the
 social media platform. <br>
@@ -157,7 +153,7 @@ need to 'appear' real. You can do this by considering the following:<o:p></o:p><
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 margin-left:36.0pt;line-height:normal'><span style='font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-AU;mso-fareast-language:
-EN-AU'>You need a phone number. 90 percent of internet traffic is from a mobile
+EN-AU'>You need a phone number. Over 90 percent of internet traffic is from a mobile
 device. A large percentage of the global population owns at least one mobile
 phone. <o:p></o:p></span></p>
 
@@ -170,12 +166,7 @@ EN-AU'>You can only link one account to one phone number.<o:p></o:p></span></p>
 margin-left:36.0pt;line-height:normal'><span style='font-family:"Arial",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-AU;mso-fareast-language:
 EN-AU'>Email address needs to be established and linked to a phone number. Email
-address '</span><span lang=EN-GB><a
-href="mailto:random.characters@freeemail.com"><span lang=EN-AU
-style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'>random.characters@freeemail.com</span></a></span><span
-style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'>' created 10 minutes ago
+address 'random.characters@freeemail.com' created 10 minutes ago
 will not work.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -195,7 +186,7 @@ for your sock: name, age, bio, interests, etc.<o:p></o:p></span></p>
      style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
      mso-ansi-language:EN-AU;mso-fareast-language:EN-AU'>Raid the stuff drawer
      in your house, dig out that old mobile phone, charge it (unless it's a
-     Nokia 3310<span class=GramE>�.ask</span> your parents) and factory reset
+     Nokia 3310<span class=GramE>(ask your parents) and factory reset
      it.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      line-height:normal;mso-list:l0 level1 lfo2;tab-stops:list 36.0pt'><span
@@ -241,8 +232,4 @@ trying to eat you.<o:p></o:p></span></p>
 style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
 
 </div>
-
-</body>
-
-</html>
 
