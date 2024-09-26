@@ -139,7 +139,7 @@ line-height:normal'><!--[if gte vml 1]><v:shape id="Picture_x0020_3" o:spid="_x0
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:margin;mso-height-relative:margin'>
  <v:imagedata src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" o:title=""/>
- <w:wrap type="tight" anchorx="margin"/>
+ <w:wrap type="wide" anchorx="margin"/>
 </v:shape><![endif]--><img width=338 height=225
 src="https://raw.githubusercontent.com/MrSkittles456/MrSkittles456.github.io/refs/heads/master/images/download%20(2).jfif" align=left hspace=12
 v:shapes="Picture_x0020_3"><span style='font-family:"Arial",sans-serif;
