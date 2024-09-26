@@ -218,7 +218,6 @@ for your sock: name, age, bio, interests, etc.<o:p></o:p></span></p>
      media profile and slowly build it up. Don't start liking, commenting, or
      uploading everything. Remember to stick to the backstory of your new sock
      puppet.<o:p></o:p></span></li>
-</ol>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
@@ -230,6 +229,3 @@ trying to eat you.<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-ansi-language:EN-AU'><o:p>&nbsp;</o:p></span></p>
-
-</div>
-
